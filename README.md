@@ -27,17 +27,11 @@ Download the latest Android APK from the Releases section.
 
 ## Screenshots
 
-### Home
-
-![Home](screenshots/hero-preview.jpg)
-
-### Library
-
-![Library](screenshots/library-preview.jpg)
-
-### Discovery
-
-![Discovery](screenshots/discovery-preview.jpg)
+<p align="center">
+  <img src="screenshots/hero-preview.jpg" width="250">
+  <img src="screenshots/library-preview.jpg" width="250">
+  <img src="screenshots/discovery-preview.jpg" width="250">
+</p>
 
 ## Release Notes
 
