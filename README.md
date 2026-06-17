@@ -19,6 +19,9 @@ Built with powerful reading-focused tools, intelligent library management, readi
 
 ## Download
 
+# Atrix Explorer
+
+[⬇ Download Latest APK](../../releases/latest)
 Download the latest Android APK from the Releases section.
 
 
