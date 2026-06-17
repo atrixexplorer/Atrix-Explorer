@@ -33,6 +33,9 @@ Download the latest Android APK from the Releases section.
   <img src="hero-preview.jpg" width="180">
   <img src="library-preview.jpg" width="180">
   <img src="discovery-preview.jpg" width="180">
+</p>
+
+<p align="center">
   <img src="insight-preview.jpg" width="180">
   <img src="profile-preview.jpg" width="180">
    <img src="browseing-preview.jpg" width="180">
