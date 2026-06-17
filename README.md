@@ -21,6 +21,21 @@ Built with powerful reading-focused tools, intelligent library management, readi
 
 Download the latest Android APK from the Releases section.
 
+
+## Screenshots
+
+### Home
+
+![Home](screenshots/hero-preview.jpg)
+
+### Library
+
+![Library](screenshots/library-preview.jpg)
+
+### Discovery
+
+![Discovery](screenshots/discovery-preview.jpg)
+
 ## Release Notes
 
 Every release includes detailed information about new features, improvements, bug fixes, and performance updates.
