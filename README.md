@@ -27,12 +27,16 @@ Download the latest Android APK from the Releases section.
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/hero-preview.jpg" width="250">
-  <img src="screenshots/library-preview.jpg" width="250">
-  <img src="screenshots/discovery-preview.jpg" width="250">
-</p>
+## Screenshots
 
+<p align="center">
+  <img src="hero-preview.jpg" width="180">
+  <img src="library-preview.jpg" width="180">
+  <img src="discovery-preview.jpg" width="180">
+  <img src="insight-preview.jpg" width="180">
+  <img src="profile-preview.jpg" width="180">
+   <img src="browseing-preview.jpg" width="180">
+</p>
 ## Release Notes
 
 Every release includes detailed information about new features, improvements, bug fixes, and performance updates.
